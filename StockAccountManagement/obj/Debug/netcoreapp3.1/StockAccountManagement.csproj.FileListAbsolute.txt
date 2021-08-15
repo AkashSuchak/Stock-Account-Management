@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.exe
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.deps.json
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.runtimeconfig.json
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.dll
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.pdb
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.AssemblyInfo.cs
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.dll
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.pdb
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.genruntimeconfig.cache
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.csproj.CopyComplete
